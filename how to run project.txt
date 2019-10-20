@@ -1,0 +1,10 @@
+command line or git: 
+
+npm install -g @vue/cli
+vue create my-project
+
+open project folder
+npm run serve
+
+open api-server folder
+node index.js
